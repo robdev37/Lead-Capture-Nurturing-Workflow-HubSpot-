@@ -94,10 +94,13 @@ This demonstrates real workflow execution inside HubSpot:
 ---
 
 ## 📊 Results (Simulated Data)
-- Instant response time after form submission  
-- 100% of leads entered a structured follow-up sequence  
-- Improved consistency in lead engagement  
-- Reduced manual workload for sales teams  
+
+- ⚡ Instant response triggered immediately after form submission  
+- 🔄 100% of leads enrolled in an automated follow-up sequence  
+- 📈 Consistent and structured lead engagement across all touchpoints  
+- 🤖 Reduced manual workload through full automation  
+
+*Note: Results are based on simulated/demo data and are intended to demonstrate workflow performance and automation efficiency.*
 
 ---
 
